@@ -11,7 +11,7 @@ Proyectos personales y de trabajo relacionados con desarrollo y automatización.
 ---
 
 ### 🎓 Cursos en Coderhouse
-[![React](https://img.shields.io/badge/React-gray?style=flat&logo=react&logoColor=white)](https://github.com/MatiCobos/React) [![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript&logoColor=white)](https://github.com/MatiCobos/JS) [![HTML & CSS](https://img.shields.io/badge/HTML_&_CSS-gray?style=flat&logo=html5&logoColor=white)](https://github.com/MatiCobos/DesarrolloWeb) [![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)](https://www.coderhouse.com)
+[![React](https://img.shields.io/badge/React-gray?style=flat&logo=react&logoColor=white)](https://github.com/MatiCobos/React) [![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript&logoColor=white)](https://github.com/MatiCobos/JS) [![HTML & CSS](https://img.shields.io/badge/HTML_&_CSS-gray?style=flat&logo=html5&logoColor=white)](https://github.com/MatiCobos/DesarrolloWeb) [![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)](https://www.coderhouse.com) [![SQL](https://img.shields.io/badge/SQL-gray?style=flat&logo=mysql&logoColor=white)](https://www.coderhouse.com)
 
 
 ---
