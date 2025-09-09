@@ -17,6 +17,5 @@ Proyectos personales y de trabajo relacionados con desarrollo y automatización.
 ---
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-cobos)  
-[![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail&logoColor=white)](mailto:casla_matias@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-cobos) [![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail&logoColor=white)](mailto:casla_matias@hotmail.com)
 
