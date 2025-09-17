@@ -1,12 +1,14 @@
-#  Matías Cobos
+# Matias Cobos
 
 Proyectos personales y de trabajo relacionados con desarrollo y automatización.
 
 ---
 
-### 📌 Proyectos destacados
-- [Dashboard Coberturas](https://github.com/maticobos/dashboard-coberturas)  
-- Mails Automáticos (proyecto privado)  
+### 🚀 Actualmente
+- Aprendiendo y practicando React para interfaces interactivas  
+- Explorando bases de datos con SQL y SQLite  
+- Usando Python para automatizar tareas y simplificar procesos  
+- Conectando todo esto en proyectos personales y de trabajo   
 
 ---
 
